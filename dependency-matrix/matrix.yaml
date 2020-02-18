@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: drjmcc
+  repo: jenkinsx-test
+  url: https://github.com/drjmcc/jenkinsx-test.git
+  version: ""
+  versionURL: ""
