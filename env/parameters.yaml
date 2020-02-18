@@ -1,0 +1,10 @@
+adminUser:
+  password: local:pipergray/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: drjmcc@gmail.com
+  token: local:pipergray/pipelineUser:token
+  username: drjmcc
+prow:
+  hmacToken: local:pipergray/prow:hmacToken
